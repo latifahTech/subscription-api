@@ -1,9 +1,5 @@
 <div align="center">
-  <br />
-    <a href="https://youtu.be/rOpEN1JDaD0?si=WfOjLV57WfR9x6QK" target="_blank">
-      <img src="https://i.ibb.co/xtTbHkfs/Readme-Thumbnail.png" alt="Project Banner">
-    </a>
-  <br />
+ 
   
   <h3 align="center">Subscription Management System API</h3>
   <p align="center">A robust, production-ready backend API for tracking and managing user subscriptions.</p>
@@ -58,5 +54,5 @@ Make sure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/subscription-tracker-api.git](https://github.com/YOUR_USERNAME/subscription-tracker-api.git)
+git clone [https://github.com/latifahTech/subscription-api.git](https://github.com/latifahTech/subscription-api.git)
 cd subscription-tracker-api
